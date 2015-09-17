@@ -1,1 +1,16 @@
+.container {
+            width: 60%;
+            margin: 0 auto;
+        }
+        .left {
+            width: 40%;
+            float: left;
+        }
+        .right {
+            width: 40%;
+            float: left;
+        }
+        .tiger {
+            margin-left: 70px;
+        }
 
