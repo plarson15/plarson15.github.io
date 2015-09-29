@@ -1,0 +1,31 @@
+body {
+ font-size: 16px;
+ line-height: 1.45;
+ font-family: "Georgia", serif;
+ color: dodgerblue;
+    background-color: #b4ff1f;
+    line-height: 1.5;  
+    width:500px;
+    margin:0 auto;
+     } 
+ p {margin-bottom: 1.3em;
+ font-family: "verdana", serif;
+ 
+ }
+
+.container h1{
+    color: chocolate;
+}
+
+.container h2{
+    color: rosybrown;
+}
+
+.container h3{
+    color: saddlebrown
+}
+
+
+a:visited {
+    color"pink";
+} 
