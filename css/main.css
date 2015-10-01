@@ -1,31 +1,44 @@
 body {
  font-size: 16px;
  line-height: 1.45;
- font-family: "Georgia", serif;
- color: dodgerblue;
-    background-color: #b4ff1f;
+     background-color: #66cccc;
     line-height: 1.5;  
-    width:500px;
+    max-width:500px;
     margin:0 auto;
      } 
  p {margin-bottom: 1.3em;
- font-family: "verdana", serif;
+ font-family: verdana;
  
  }
 
 .container h1{
     color: chocolate;
+	text-decoration: underline;
+	font-family: Courier New;
+	
 }
 
 .container h2{
     color: rosybrown;
+	font-family: Lucida Sans Typewriter;
 }
 
 .container h3{
     color: saddlebrown
 }
 
+a:link {
+    background-color: black;
+}
 
 a:visited {
-    color"pink";
+    background-color: #33ffff;
+}
+
+a:hover {
+    background-color: #663366;
+}
+
+a:active {
+    background-color: #FF704D;
 } 
