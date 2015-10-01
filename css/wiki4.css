@@ -32,6 +32,7 @@ float:left;
 	padding-bottom: 70%;
 
 }
+
 body{
 	background-color: #54704A;
 	text-align: center;
@@ -53,10 +54,11 @@ li{
 	list-style: none;
 	float:left;
 	padding-left:20px;
+	
 
-}
-p{
 
-font-size: italic;
+p {
+
+font-family: veranda;
 
 }
