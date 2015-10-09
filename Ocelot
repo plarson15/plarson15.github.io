@@ -40,7 +40,7 @@
             <li>Fact 2</li>
              <li>Fact 3</li>
              <li>Fact 4</li>
-             <li><a href="http://animals.nationalgeographic.com/animals/mammals/ocelot/?source=A-to-Z; text-decoration:none">Fact 5</a>
+             <li><a href="http://animals.nationalgeographic.com/animals/mammals/ocelot/?source=A-to-Z; text-decoration:none;">Fact 5</a>
                     <ul>
                  <li>sub fact 1</li>
                 <li>sub fact 2</li>
