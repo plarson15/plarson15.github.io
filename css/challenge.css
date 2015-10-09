@@ -1,0 +1,97 @@
+.container{
+ background-color: aqua
+     
+}
+    
+.container {
+    width: 1080px;
+    margin: 0 auto;
+    background: #FF99cc;
+}
+
+.header h1{
+    float: left;
+    margin: 0 50px 0 30px;        
+}
+
+.header {
+    clear: both;
+    padding-bottom: 30px;
+    background:  #FFFAA;     
+}
+
+.header ul {
+    padding-top: 10px;
+}
+
+nav ul li {
+    display: : inline;
+    padding-left: 20px;
+    margin-bottom: 10px;
+	float: left;
+	overflow: hidden;
+}
+
+
+
+
+.content {
+    width: 75%;
+    float: left;
+    background: #88cc88;   
+	padding-bottom: 20px	
+}
+
+.content img {
+    float: left;
+    margin: 0 20px;
+}
+.description{
+    clear: right;
+    padding: 10px 20px 0    
+}
+
+
+.aside{
+		float:left;
+		background-color: #ffcc00;
+		width:20%;
+		text-align: center;
+		padding-bottom:30%;
+		
+    padding-bottom: 425px;
+    padding-right: 54px;
+">
+            <h2>List O' Links</h2>
+            <ul>
+                <li><a href="#">Cool Link 1</a></li>
+                <li><a href="#">Cool Link 2</a></li>
+                <li><a href="#">Cool Link 3</a></li>
+                <li><a href="#">Cool Link 4</a></li>
+                <li><a href="#">Cool Link 5</a></li>
+            </ul>
+        </div>
+	
+		
+}
+.section {
+	float: left;
+	  width: 20%;
+	  
+	  margin: 0 1% 24px 8%;
+}
+
+
+
+.aside ul li {
+	list-style-type: none;
+	text-align: center;
+
+}
+
+.footer{
+    background-color: #3399cc;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    clear: both; 
+}
